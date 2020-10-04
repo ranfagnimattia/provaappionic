@@ -1,0 +1,7 @@
+{
+  "name": "AppQRVini",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
