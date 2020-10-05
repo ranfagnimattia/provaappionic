@@ -1,0 +1,7 @@
+{
+  "name": "provaapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
